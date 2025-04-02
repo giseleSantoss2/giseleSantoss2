@@ -1,8 +1,8 @@
 # 👩🏾‍💻 Gisele Florenço
 
-**`DevOps | Front`**
+**`DevOps | CyberSecurity`**
 
-Meu nome é Gisele, tenho 27 anos e sou natural do Rio Janeiro. Atualmente estou no último período do curso Sistemas de Informação pela Universidade Estácio de Sá e atuo como estagiária de Segurança Cibernética. No meu tempo livre, gosto de ouvir música e assistir doramas.
+Meu nome é Gisele, tenho 28 anos e sou natural do Rio Janeiro. Atualmente estou no último período do curso Sistemas de Informação pela Universidade Estácio de Sá e atuo como Software Engineer Jr. no Grupo OLX. No meu tempo livre, gosto de ouvir música e assistir doramas.
 
 
 ---
